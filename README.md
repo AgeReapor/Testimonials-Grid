@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: To-be-added
-- Live Site URL: To-be-added
+- Solution URL: [Github](https://github.com/AgeReapor/Testimonials-Grid)
+- Live Site URL: [Vercel](https://testimonials-grid-six-liard.vercel.app/)
 
 ## My process
 
